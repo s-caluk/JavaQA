@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaTester.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01_programlamayaGiris/C01_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01_programlamayaGiris/C02_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C01_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C02_dataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C03_NonPrimitiveDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C04_NamingConvention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C05_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C06_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C07_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C08_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C09_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C10_Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HeIoNsXugiW25un00p7p0y3JXU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,13 +46,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C02_Variables">
-    <configuration name="C01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_programlamayaGiris.C01_HelloWorld" />
+  <component name="RunManager" selected="Application.C10_Scanner">
+    <configuration name="C06_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C06_Scanner" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_programlamayaGiris.*" />
+          <option name="PATTERN" value="day02_variables_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +60,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_programlamayaGiris.C02_Variables" />
+    <configuration name="C07_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C07_Scanner" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_programlamayaGiris.*" />
+          <option name="PATTERN" value="day02_variables_scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C08_Scanner" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_variables_scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C09_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C09_Scanner" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_variables_scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C10_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C10_Scanner" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_variables_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C02_Variables" />
-        <item itemvalue="Application.C01_HelloWorld" />
+        <item itemvalue="Application.C10_Scanner" />
+        <item itemvalue="Application.C09_Scanner" />
+        <item itemvalue="Application.C08_Scanner" />
+        <item itemvalue="Application.C07_Scanner" />
+        <item itemvalue="Application.C06_Scanner" />
       </list>
     </recent_temporary>
   </component>
