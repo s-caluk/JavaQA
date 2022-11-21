@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C01_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C02_dataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C03_NonPrimitiveDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C04_NamingConvention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C05_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C06_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C07_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C08_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C09_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02_variables_scanner/C10_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_matematikselIslemler/C01_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_matematikselIslemler/C02_ExplicitNarrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_matematikselIslemler/C03_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_matematikselIslemler/C04_CharDataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_matematikselIslemler/C05_WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_matematikselIslemler/C06_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_matematikselIslemler/C07_Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03_dataCasting_matematikselIslemler/C08_SayininRakamlarToplaminiBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +44,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C10_Scanner">
-    <configuration name="C06_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C06_Scanner" />
+  <component name="RunManager" selected="Application.C08_SayininRakamlarToplaminiBulma">
+    <configuration name="C04_CharDataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_dataCasting_matematikselIslemler.C04_CharDataCasting" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_variables_scanner.*" />
+          <option name="PATTERN" value="day03_dataCasting_matematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C07_Scanner" />
+    <configuration name="C05_WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_dataCasting_matematikselIslemler.C05_WrapperClass" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_variables_scanner.*" />
+          <option name="PATTERN" value="day03_dataCasting_matematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C08_Scanner" />
+    <configuration name="C06_DataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_dataCasting_matematikselIslemler.C06_DataCasting" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_variables_scanner.*" />
+          <option name="PATTERN" value="day03_dataCasting_matematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C09_Scanner" />
+    <configuration name="C07_Modulus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_dataCasting_matematikselIslemler.C07_Modulus" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_variables_scanner.*" />
+          <option name="PATTERN" value="day03_dataCasting_matematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_variables_scanner.C10_Scanner" />
+    <configuration name="C08_SayininRakamlarToplaminiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_dataCasting_matematikselIslemler.C08_SayininRakamlarToplaminiBulma" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_variables_scanner.*" />
+          <option name="PATTERN" value="day03_dataCasting_matematikselIslemler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C10_Scanner" />
-        <item itemvalue="Application.C09_Scanner" />
-        <item itemvalue="Application.C08_Scanner" />
-        <item itemvalue="Application.C07_Scanner" />
-        <item itemvalue="Application.C06_Scanner" />
+        <item itemvalue="Application.C08_SayininRakamlarToplaminiBulma" />
+        <item itemvalue="Application.C07_Modulus" />
+        <item itemvalue="Application.C06_DataCasting" />
+        <item itemvalue="Application.C05_WrapperClass" />
+        <item itemvalue="Application.C04_CharDataCasting" />
       </list>
     </recent_temporary>
   </component>
