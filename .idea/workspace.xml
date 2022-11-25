@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C01_ifElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C02_IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C03_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C04_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C05_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C06_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C07_NestedTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C08_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C09_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C10_SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day07_ternary_switchStatements/C11_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08_stringManipulation/C01_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08_stringManipulation/C02_toUppercaseLocale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08_stringManipulation/C03_equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08_stringManipulation/C04_equalsIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08_stringManipulation/C05_charAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08_stringManipulation/C06_length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08_stringManipulation/C07_substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +43,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C11_SwitchCase">
-    <configuration name="C07_NestedTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07_ternary_switchStatements.C07_NestedTernary" />
+  <component name="RunManager" selected="Application.C07_substring">
+    <configuration name="C03_equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08_stringManipulation.C03_equals" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_ternary_switchStatements.*" />
+          <option name="PATTERN" value="day08_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07_ternary_switchStatements.C08_SwitchStatements" />
+    <configuration name="C04_equalsIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08_stringManipulation.C04_equalsIgnoreCase" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_ternary_switchStatements.*" />
+          <option name="PATTERN" value="day08_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07_ternary_switchStatements.C09_SwitchStatements" />
+    <configuration name="C05_charAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08_stringManipulation.C05_charAt" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_ternary_switchStatements.*" />
+          <option name="PATTERN" value="day08_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07_ternary_switchStatements.C10_SwitchStatements" />
+    <configuration name="C06_length" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08_stringManipulation.C06_length" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_ternary_switchStatements.*" />
+          <option name="PATTERN" value="day08_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07_ternary_switchStatements.C11_SwitchCase" />
+    <configuration name="C07_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day08_stringManipulation.C07_substring" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07_ternary_switchStatements.*" />
+          <option name="PATTERN" value="day08_stringManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C11_SwitchCase" />
-        <item itemvalue="Application.C10_SwitchStatements" />
-        <item itemvalue="Application.C09_SwitchStatements" />
-        <item itemvalue="Application.C08_SwitchStatements" />
-        <item itemvalue="Application.C07_NestedTernary" />
+        <item itemvalue="Application.C07_substring" />
+        <item itemvalue="Application.C06_length" />
+        <item itemvalue="Application.C05_charAt" />
+        <item itemvalue="Application.C04_equalsIgnoreCase" />
+        <item itemvalue="Application.C03_equals" />
       </list>
     </recent_temporary>
   </component>
