@@ -8,7 +8,7 @@ public class C07_substring {
         String str= "Java ogren, isi kap";
 
         System.out.println(str.length()); // karakter sayisi : 19
- 
+
         // Metnin tam ortasindaki karakter nedir ?
 
         System.out.println(str.charAt(str.length()/2)); // n
