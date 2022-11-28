@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day09_stringManipulations/C01_concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_stringManipulations/C02_contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_stringManipulations/C03_startsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_stringManipulations/C04_endsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_stringManipulations/C05_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_stringManipulations/C06_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_stringManipulations/C07_ilkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day09_stringManipulations/C08_lastIndexOf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_stringManipulation/C07_substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day08_stringManipulation/C07_substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_ifStatements/C01_IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05_ifStatements/C01_IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_ifStatements/C02_IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05_ifStatements/C02_IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_ifStatements/C03_IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05_ifStatements/C03_IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_ifStatements/C04_IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05_ifStatements/C04_IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_ifStatements/C05_IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05_ifStatements/C05_IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05_ifStatements/C06_IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05_ifStatements/C06_IfStatements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +42,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C08_lastIndexOf">
-    <configuration name="C04_endsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_stringManipulations.C04_endsWith" />
+  <component name="RunManager" selected="Application.C06_IfStatements">
+    <configuration name="C02_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_ifStatements.C02_IfStatements" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_stringManipulations.*" />
+          <option name="PATTERN" value="day05_ifStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_indexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_stringManipulations.C05_indexOf" />
+    <configuration name="C03_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_ifStatements.C03_IfStatements" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_stringManipulations.*" />
+          <option name="PATTERN" value="day05_ifStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_indexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_stringManipulations.C06_indexOf" />
+    <configuration name="C04_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_ifStatements.C04_IfStatements" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_stringManipulations.*" />
+          <option name="PATTERN" value="day05_ifStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_ilkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_stringManipulations.C07_ilkTest" />
+    <configuration name="C05_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_ifStatements.C05_IfStatements" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_stringManipulations.*" />
+          <option name="PATTERN" value="day05_ifStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_lastIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09_stringManipulations.C08_lastIndexOf" />
+    <configuration name="C06_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_ifStatements.C06_IfStatements" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_stringManipulations.*" />
+          <option name="PATTERN" value="day05_ifStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C08_lastIndexOf" />
-        <item itemvalue="Application.C07_ilkTest" />
-        <item itemvalue="Application.C06_indexOf" />
-        <item itemvalue="Application.C05_indexOf" />
-        <item itemvalue="Application.C04_endsWith" />
+        <item itemvalue="Application.C06_IfStatements" />
+        <item itemvalue="Application.C05_IfStatements" />
+        <item itemvalue="Application.C04_IfStatements" />
+        <item itemvalue="Application.C03_IfStatements" />
+        <item itemvalue="Application.C02_IfStatements" />
       </list>
     </recent_temporary>
   </component>
