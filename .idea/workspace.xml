@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C01_NullPointer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_stringManipulations/C02_replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C02_replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_stringManipulations/C03_replaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C03_replaceAll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C01_NullPointer">
+  <component name="RunManager" selected="Application.C03_replaceAll">
     <configuration name="C01_NullPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C01_NullPointer" />
       <module name="JavaTester" />
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05_ifStatements.C03_IfStatements" />
+    <configuration name="C02_replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C02_replace" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_ifStatements.*" />
+          <option name="PATTERN" value="day10_stringManipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05_ifStatements.C04_IfStatements" />
+    <configuration name="C03_replaceAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C03_replaceAll" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05_ifStatements.*" />
+          <option name="PATTERN" value="day10_stringManipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_replaceAll" />
+        <item itemvalue="Application.C02_replace" />
         <item itemvalue="Application.C01_NullPointer" />
         <item itemvalue="Application.C06_IfStatements" />
         <item itemvalue="Application.C05_IfStatements" />
-        <item itemvalue="Application.C04_IfStatements" />
-        <item itemvalue="Application.C03_IfStatements" />
       </list>
     </recent_temporary>
   </component>
