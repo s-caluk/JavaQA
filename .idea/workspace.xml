@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C08_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C09_ForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,20 +38,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C08_ForLoop">
-    <configuration name="C04_replaceFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C04_replaceFirst" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10_stringManipulations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C09_ForLoop">
     <configuration name="C05_Soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C05_Soru" />
       <module name="JavaTester" />
@@ -104,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C09_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C09_ForLoop" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_stringManipulations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C09_ForLoop" />
         <item itemvalue="Application.C08_ForLoop" />
         <item itemvalue="Application.C07_ForLoop" />
         <item itemvalue="Application.C06_Soru" />
         <item itemvalue="Application.C05_Soru" />
-        <item itemvalue="Application.C04_replaceFirst" />
       </list>
     </recent_temporary>
   </component>
