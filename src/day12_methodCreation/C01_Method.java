@@ -23,7 +23,7 @@ public class C01_Method {
         //1)methodun döndürdügü sonucu kullanmak isterseniz ya yazdirirsiniz (void)
         System.out.println(str.isBlank());
 
-        //2)ya da sonucu ileride kullanacaksak atama yaparsiniz, sonra istersen yazdirirsin (int,String)
+        //2)ya da sonucu ileride kullanacaksak atama yaparsiniz, sonra istersen yazdirirsin (int,String gibi)
         String buyukHarfStr = str.toUpperCase();
     }
 }
