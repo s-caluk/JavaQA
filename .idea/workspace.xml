@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_methodCreation/C01_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_methodCreation/C01_Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_methodCreation/C02_MethodOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_methodCreation/C02_MethodOlusturma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_methodCreation/C03_AsalSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_methodCreation/C03_AsalSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_methodCreation/C04_Faktoryel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_methodCreation/C04_Faktoryel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_methodCreation/C05_HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_methodCreation/C05_HesapMakinesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_methodCreation/C06_MethodKullanimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_methodCreation/C06_MethodKullanimi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_methodCreation/C07_TerseCevirme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_methodCreation/C07_TerseCevirme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_methodCreation/C08_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12_methodCreation/C08_Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +47,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C02_MethodOlusturma">
-    <configuration name="C01_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C01_Method" />
+  <component name="RunManager" selected="Application.C08_Palindrome">
+    <configuration name="C04_Faktoryel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C04_Faktoryel" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_MethodOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C02_MethodOlusturma" />
+    <configuration name="C05_HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C05_HesapMakinesi" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_methodOverloading_whileLoop.C03_MethodOverloading" />
+    <configuration name="C06_MethodKullanimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C06_MethodKullanimi" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_methodOverloading_whileLoop.*" />
+          <option name="PATTERN" value="day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_methodOverloading_whileLoop.C04_WhileLoop" />
+    <configuration name="C07_TerseCevirme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C07_TerseCevirme" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_methodOverloading_whileLoop.*" />
+          <option name="PATTERN" value="day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_SifreKontrolu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_methodOverloading_whileLoop.C06_SifreKontrolu" />
+    <configuration name="C08_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C08_Palindrome" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_methodOverloading_whileLoop.*" />
+          <option name="PATTERN" value="day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C02_MethodOlusturma" />
-        <item itemvalue="Application.C01_Method" />
-        <item itemvalue="Application.C06_SifreKontrolu" />
-        <item itemvalue="Application.C03_MethodOverloading" />
-        <item itemvalue="Application.C04_WhileLoop" />
+        <item itemvalue="Application.C08_Palindrome" />
+        <item itemvalue="Application.C07_TerseCevirme" />
+        <item itemvalue="Application.C06_MethodKullanimi" />
+        <item itemvalue="Application.C05_HesapMakinesi" />
+        <item itemvalue="Application.C04_Faktoryel" />
       </list>
     </recent_temporary>
   </component>
