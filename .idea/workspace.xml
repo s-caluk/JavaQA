@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day15_scope_arrays/C01_Hastane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day15_scope_arrays/C02_Hastane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_scope_arrays/C03_BaskaClassaErisme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_scope_arrays/C04_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,26 +44,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C02_Hastane">
+  <component name="RunManager" selected="Application.C04_Arrays">
     <configuration name="C01_Hastane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day15_scope_arrays.C01_Hastane" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day15_scope_arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14_doWhileLoop_scope.C02_DoWhileLoop" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14_doWhileLoop_scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14_doWhileLoop_scope.C03_DoWhileLoop" />
+    <configuration name="C03_BaskaClassaErisme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15_scope_arrays.C03_BaskaClassaErisme" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_doWhileLoop_scope.*" />
+          <option name="PATTERN" value="day15_scope_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15_scope_arrays.C04_Arrays" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day15_scope_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_Arrays" />
+        <item itemvalue="Application.C03_BaskaClassaErisme" />
         <item itemvalue="Application.C02_Hastane" />
         <item itemvalue="Application.C01_Hastane" />
         <item itemvalue="Application.C04_DoWhileLoop" />
-        <item itemvalue="Application.C03_DoWhileLoop" />
-        <item itemvalue="Application.C02_DoWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -141,20 +141,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/day15_scope_arrays/C02_Hastane.java</url>
-          <line>11</line>
-          <properties class="day15_scope_arrays.C02_Hastane" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
