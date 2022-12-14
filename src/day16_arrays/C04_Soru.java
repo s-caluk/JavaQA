@@ -14,7 +14,7 @@ public class C04_Soru {
 
         for (int i = 0; i < isimler.length ; i++) {
 
-            if (isimler[i].contains(silinecekHarf)){
+            if (isimler[i].contains(silinecekHarf)){   //silinecekHarfi icerir ??
 
                 isimler[i]=null;
             }
