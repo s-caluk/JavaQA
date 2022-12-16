@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_arrays/C13_binarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16_arrays/C13_binarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day17_arrays/C06_MDA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17_arrays/C06_MDA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +43,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C13_binarySearch">
-    <configuration name="C02_equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_arrays.C02_equals" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day17_arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C06_MDA">
     <configuration name="C03_StringSplitMethodu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day17_arrays.C03_StringSplitMethodu" />
       <module name="JavaTester" />
@@ -96,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C06_MDA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_arrays.C06_MDA" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C13_binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day16_arrays.C13_binarySearch" />
       <module name="JavaTester" />
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C06_MDA" />
         <item itemvalue="Application.C13_binarySearch" />
         <item itemvalue="Application.C05_MDA" />
         <item itemvalue="Application.C04_MultiDimensionalArrays" />
         <item itemvalue="Application.C03_StringSplitMethodu" />
-        <item itemvalue="Application.C02_equals" />
       </list>
     </recent_temporary>
   </component>
