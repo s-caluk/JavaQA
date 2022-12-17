@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C01_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C02_remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C03_remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C04_size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C05_contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C06_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C07_set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C08_equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C09_indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C10_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C11_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day18_arrayLists/C12_Soru.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18_arrayLists/C02_remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_arrayLists/C02_remove.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +43,22 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C01_ArrayList">
+  <component name="RunManager" selected="Application.C02_remove">
     <configuration name="C01_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day18_arrayLists.C01_ArrayList" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18_arrayLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18_arrayLists.C02_remove" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
@@ -107,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C13_binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16_arrays.C13_binarySearch" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day16_arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_remove" />
         <item itemvalue="Application.C01_ArrayList" />
         <item itemvalue="Application.C08_MDA" />
         <item itemvalue="Application.C07_MDA" />
         <item itemvalue="Application.C06_MDA" />
-        <item itemvalue="Application.C13_binarySearch" />
       </list>
     </recent_temporary>
   </component>
