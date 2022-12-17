@@ -25,7 +25,7 @@ public class C07_MDA {
 
             }
             toplamlarArrayi[i]=toplam;
-            toplam=0;
+            toplam=0;    //toplam atandiktan sonra yeni i icin sifirlanmasi lazim
 
         }
 
