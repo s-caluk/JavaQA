@@ -24,7 +24,7 @@ public class C07_MDA {
                 toplam += arr[i][j];
 
             }
-            toplamlarArrayi[i]=toplam;
+            toplamlarArrayi[i]=toplam;  //atayarak kalici hale getiriyoruz
             toplam=0;    //toplam atandiktan sonra yeni i icin sifirlanmasi lazim
 
         }
