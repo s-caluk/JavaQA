@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18_arrayLists/C03_remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_arrayLists/C03_remove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18_arrayLists/C04_size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_arrayLists/C04_size.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C03_remove">
+  <component name="RunManager" selected="Application.C04_size">
     <configuration name="C01_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day18_arrayLists.C01_ArrayList" />
       <module name="JavaTester" />
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_MDA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_arrays.C07_MDA" />
+    <configuration name="C04_size" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18_arrayLists.C04_size" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_arrays.*" />
+          <option name="PATTERN" value="day18_arrayLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_size" />
         <item itemvalue="Application.C03_remove" />
         <item itemvalue="Application.C02_remove" />
         <item itemvalue="Application.C01_ArrayList" />
         <item itemvalue="Application.C08_MDA" />
-        <item itemvalue="Application.C07_MDA" />
       </list>
     </recent_temporary>
   </component>
