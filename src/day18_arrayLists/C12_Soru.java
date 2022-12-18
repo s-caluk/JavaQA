@@ -52,7 +52,6 @@ public class C12_Soru {
                 sayi3=sayi1+sayi2;
             }while (fibonacciList.size()<n);
 
-
             return fibonacciList;
         }
     }
