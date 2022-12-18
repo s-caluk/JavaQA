@@ -28,7 +28,7 @@ public class C12_Soru {
 
         if (n<1){
             System.out.println("Gecersiz sayi");
-            return null;
+            return null;     //hepsinde bir sey dönüyor  bunda dönmezse olmazdi
         } else if (n==1) {
             fibonacciList.add(0);
             return fibonacciList;
