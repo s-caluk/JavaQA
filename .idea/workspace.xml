@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C01_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C02_ArraydenListYapma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C03_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C04_ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C05_ForEachLoopSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C06_ForEachLoopSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C07_ForEachLoopSoru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C08_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/ToyotaRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18_arrayLists/C12_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18_arrayLists/C12_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C02_ArraydenListYapma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19_arrayList_forEachLoop/C02_ArraydenListYapma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +43,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C01_ArrayList">
+  <component name="RunManager" selected="Application.C02_ArraydenListYapma">
     <configuration name="C01_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_arrayList_forEachLoop.C01_ArrayList" />
       <module name="JavaTester" />
@@ -67,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_indexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18_arrayLists.C09_indexOf" />
+    <configuration name="C02_ArraydenListYapma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day19_arrayList_forEachLoop.C02_ArraydenListYapma" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18_arrayLists.*" />
+          <option name="PATTERN" value="day19_arrayList_forEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_ArraydenListYapma" />
         <item itemvalue="Application.C01_ArrayList" />
         <item itemvalue="Application.C12_Soru" />
         <item itemvalue="Application.C11_Soru" />
         <item itemvalue="Application.C10_Soru" />
-        <item itemvalue="Application.C09_indexOf" />
       </list>
     </recent_temporary>
   </component>
