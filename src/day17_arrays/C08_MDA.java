@@ -12,7 +12,6 @@ public class C08_MDA {
         //		input :      int[][] arr =  {{3,4,5}, {2,3,6,7}};
         //	    output:                       [5, 7, 11]
 
-
         // dinamik hale getirebilmek icin once inner array'lerden en kisa olani bulmamiz gerekir
 
 
