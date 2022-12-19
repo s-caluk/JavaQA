@@ -14,7 +14,7 @@ public class Toyota {
     }
      */
 
-    Toyota(){  //bu default cont. degil , parametresiz cont. olur
+    public Toyota(){  //bu default cont. degil , parametresiz cont. olur
         System.out.println("Toyota class'indaki cons. calisti");
     }
 
