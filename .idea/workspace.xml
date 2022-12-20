@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C01_StaticBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C02_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C03_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C04_PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C05_PassByValueCokluElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C06_PassByValueCokluElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day20_constructor/Rope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_constructor/Rope.java" afterDir="false" />
     </list>
@@ -43,7 +49,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rope">
+  <component name="RunManager" selected="Application.C01_StaticBlocks">
     <configuration name="C01_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day20_constructor.C01_Constructor" />
       <module name="JavaTester" />
@@ -57,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20_constructor.C02_Constructor" />
+    <configuration name="C01_StaticBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_staticKeyword.C01_StaticBlocks" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20_constructor.*" />
+          <option name="PATTERN" value="day21_staticKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_arrayList_forEachLoop.C08_Constructor" />
+    <configuration name="C02_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_constructor.C02_Constructor" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_arrayList_forEachLoop.*" />
+          <option name="PATTERN" value="day20_constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_StaticBlocks" />
         <item itemvalue="Application.Rope" />
         <item itemvalue="Application.C02_Constructor" />
         <item itemvalue="Application.C01_Constructor" />
         <item itemvalue="Application.ToyotaRunner" />
-        <item itemvalue="Application.C08_Constructor" />
       </list>
     </recent_temporary>
   </component>
