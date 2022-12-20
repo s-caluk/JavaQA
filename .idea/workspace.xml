@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C01_StaticBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C02_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C03_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C04_PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C05_PassByValueCokluElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C06_PassByValueCokluElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day20_constructor/Rope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_constructor/Rope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_staticKeyword/C02_PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C02_PassByValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
