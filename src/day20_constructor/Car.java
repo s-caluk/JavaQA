@@ -19,7 +19,6 @@ public class Car {
         this.yil = yil;
     }
 
-
     public static void hareket() {
         System.out.println("Tum arabalar hareket eder");
     }

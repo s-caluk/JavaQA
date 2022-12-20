@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/C01_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/C02_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20_constructor/Rope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_constructor/C02_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_constructor/C02_Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_constructor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_constructor/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C01_Constructor">
+  <component name="RunManager" selected="Application.C02_Constructor">
     <configuration name="C01_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day20_constructor.C01_Constructor" />
       <module name="JavaTester" />
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_ForEachLoopSoru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_arrayList_forEachLoop.C06_ForEachLoopSoru" />
+    <configuration name="C02_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20_constructor.C02_Constructor" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_arrayList_forEachLoop.*" />
+          <option name="PATTERN" value="day20_constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C02_Constructor" />
         <item itemvalue="Application.C01_Constructor" />
         <item itemvalue="Application.ToyotaRunner" />
         <item itemvalue="Application.C08_Constructor" />
         <item itemvalue="Application.C07_ForEachLoopSoru" />
-        <item itemvalue="Application.C06_ForEachLoopSoru" />
       </list>
     </recent_temporary>
   </component>
