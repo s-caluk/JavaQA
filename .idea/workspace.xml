@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day21_staticKeyword/C02_PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C02_PassByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_staticKeyword/C03_PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C03_PassByValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C01_StaticBlocks">
+  <component name="RunManager" selected="Application.C03_PassByValue">
     <configuration name="C01_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day20_constructor.C01_Constructor" />
       <module name="JavaTester" />
@@ -83,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C03_PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_staticKeyword.C03_PassByValue" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day21_staticKeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Rope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day20_constructor.Rope" />
       <module name="JavaTester" />
@@ -96,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToyotaRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_arrayList_forEachLoop.ToyotaRunner" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day19_arrayList_forEachLoop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_PassByValue" />
         <item itemvalue="Application.C01_StaticBlocks" />
         <item itemvalue="Application.Rope" />
         <item itemvalue="Application.C02_Constructor" />
         <item itemvalue="Application.C01_Constructor" />
-        <item itemvalue="Application.ToyotaRunner" />
       </list>
     </recent_temporary>
   </component>
