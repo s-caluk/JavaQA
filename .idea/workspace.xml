@@ -4,6 +4,7 @@
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day21_staticKeyword/C05_PassByValueCokluElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C05_PassByValueCokluElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_staticKeyword/C06_PassByValueCokluElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_staticKeyword/C06_PassByValueCokluElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C05_PassByValueCokluElement">
+  <component name="RunManager" selected="Application.C06_PassByValueCokluElement">
     <configuration name="C01_StaticBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day21_staticKeyword.C01_StaticBlocks" />
       <module name="JavaTester" />
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20_constructor.Rope" />
+    <configuration name="C06_PassByValueCokluElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21_staticKeyword.C06_PassByValueCokluElement" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20_constructor.*" />
+          <option name="PATTERN" value="day21_staticKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C06_PassByValueCokluElement" />
         <item itemvalue="Application.C05_PassByValueCokluElement" />
         <item itemvalue="Application.C04_PassByValue" />
         <item itemvalue="Application.C03_PassByValue" />
         <item itemvalue="Application.C01_StaticBlocks" />
-        <item itemvalue="Application.Rope" />
       </list>
     </recent_temporary>
   </component>

@@ -5,6 +5,8 @@ import java.util.Arrays;
 
 public class C05_PassByValueCokluElement {
     public static void main(String[] args) {
+        // bir method olusturup, arr'yi method'a yollayalim
+        // method'da arr'in elementleri uzerinde degisiklik yapalim ve arr'yi yazdiralim
 
         int[] arr = {3,6,9,1,7};
         elementleriDegistir(arr);
