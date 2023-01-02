@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day27_overriding/AHayvanlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_overriding/BKuslar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_overriding/CAvciKuslar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_overriding/DGrandParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_overriding/EParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_overriding/FChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_overriding/GExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_overriding/HExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_overriding/CAvciKuslar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_overriding/CAvciKuslar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,33 +49,7 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CAvciKuslar">
-    <configuration name="C03_PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21_staticKeyword.C03_PassByValue" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day21_staticKeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21_staticKeyword.C04_PassByValue" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day21_staticKeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HExceptions">
     <configuration name="C05_PassByValueCokluElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day21_staticKeyword.C05_PassByValueCokluElement" />
       <module name="JavaTester" />
@@ -112,13 +89,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day27_overriding.GExceptions" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day27_overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day27_overriding.HExceptions" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day27_overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HExceptions" />
+        <item itemvalue="Application.GExceptions" />
         <item itemvalue="Application.CAvciKuslar" />
         <item itemvalue="Application.C06_PassByValueCokluElement" />
         <item itemvalue="Application.C05_PassByValueCokluElement" />
-        <item itemvalue="Application.C04_PassByValue" />
-        <item itemvalue="Application.C03_PassByValue" />
       </list>
     </recent_temporary>
   </component>
