@@ -3,19 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_immutableClasses/C04_StringEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_immutableClasses/C04_StringEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_exceptions/C01_TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_exceptions/C01_TryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_exceptions/C02_TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_exceptions/C02_TryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_exceptions/C03_TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_exceptions/C03_TryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_exceptions/C04_CheckedExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_exceptions/C04_CheckedExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_exceptions/C05_MultipleExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_exceptions/C05_MultipleExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_exceptions/metin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_exceptions/metin.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_interfaces_iterator/I01_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_interfaces_iterator/I01_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_interfaces_iterator/I02_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_interfaces_iterator/I02_interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_interfaces_iterator/M01_ChildOfInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_interfaces_iterator/M01_ChildOfInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_interfaces_iterator/M02_ChildOfInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_interfaces_iterator/M02_ChildOfInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_interfaces_iterator/N01_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_interfaces_iterator/N01_Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_interfaces_iterator/N03_ListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_interfaces_iterator/N03_ListIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day22_immutableClasses/C05_LocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_immutableClasses/C05_LocalDate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +45,7 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C03_ImmutableClasses">
+  <component name="RunManager" selected="Application.C05_LocalDate">
     <configuration name="C01_Final_Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day29_final_abstractClasses.C01_Final_Finally" />
       <module name="JavaTester" />
@@ -97,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_overriding.GExceptions" />
+    <configuration name="C05_LocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22_immutableClasses.C05_LocalDate" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_overriding.*" />
+          <option name="PATTERN" value="day22_immutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C05_LocalDate" />
         <item itemvalue="Application.C03_ImmutableClasses" />
         <item itemvalue="Application.C01_Final_Finally" />
         <item itemvalue="Application.C01_PassByValue" />
         <item itemvalue="Application.HExceptions" />
-        <item itemvalue="Application.GExceptions" />
       </list>
     </recent_temporary>
   </component>
