@@ -1,10 +1,16 @@
+
+/*
+String´de degisiklik kalici degildir. "str.toUpperCase();" yaptiginda sout(str) hala kücüktür.
+Array ve List mutable oldugu icin "arr.add(10);" dediginde arr degismistir
+ */
+
+
 package day22_immutableClasses;
 
 public class C04_StringEquals {
     public static void main(String[] args) {
         /*
-            java String'lerde her seferinde yeni obje olusturmamak icin
-            String havuzu kullanir
+            java String'lerde her seferinde yeni obje olusturmamak icin String havuzu kullanir.
             eger String olusturulurken
             bugune kadar yaptigimiz gibi basit bir sekilde olusturulursa
             havuzu kontrol eder ve ayni deger varsa bunlari ozdeslestirir
