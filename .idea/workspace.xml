@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="04368eb8-cb5e-4fd2-9140-782789ee8832" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_dateTime_varargs/C04_Period.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C04_Period.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day23_dateTime_varargs/C05_Varargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C05_Varargs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day23_dateTime_varargs/C06_Varargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C06_Varargs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day23_dateTime_varargs/C07_Varargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day23_dateTime_varargs/C07_Varargs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,26 +46,13 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C05_Varargs">
+  <component name="RunManager" selected="Application.C07_Varargs">
     <configuration name="C03_DateTimeFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_dateTime_varargs.C03_DateTimeFormatter" />
       <module name="JavaTester" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day23_dateTime_varargs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_ImmutableClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day22_immutableClasses.C03_ImmutableClasses" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day22_immutableClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +73,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_LocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day22_immutableClasses.C05_LocalDate" />
-      <module name="JavaTester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day22_immutableClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C05_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day23_dateTime_varargs.C05_Varargs" />
       <module name="JavaTester" />
@@ -113,13 +86,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C06_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23_dateTime_varargs.C06_Varargs" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day23_dateTime_varargs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23_dateTime_varargs.C07_Varargs" />
+      <module name="JavaTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day23_dateTime_varargs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C07_Varargs" />
+        <item itemvalue="Application.C06_Varargs" />
         <item itemvalue="Application.C05_Varargs" />
         <item itemvalue="Application.C04_Period" />
         <item itemvalue="Application.C03_DateTimeFormatter" />
-        <item itemvalue="Application.C05_LocalDate" />
-        <item itemvalue="Application.C03_ImmutableClasses" />
       </list>
     </recent_temporary>
   </component>
