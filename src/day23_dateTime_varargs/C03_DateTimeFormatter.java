@@ -1,5 +1,11 @@
 
+/*
+ 2022-12-20T10:37:25.482279 --> dateTime -->
+ DateTimeFormatter class ile dateTime kisminin standardini degistirebiliyorsun. gün/yil/ay gibi
+ zamanimizi format3 e göre formatla, demek istedigimiz durumlar icindir.
+ */
 
+package day23_dateTime_varargs;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -13,8 +19,10 @@ public class C03_DateTimeFormatter {
         // Sadece tarihi 20/12/2022 olarak yazdiralim
 
         DateTimeFormatter format1 = DateTimeFormatter.ofPattern("dd/MM/YYYY");
+        DateTimeFormatter format11 = DateTimeFormatter.ISO_LOCAL_DATE;
 
-        System.out.println(ldt.format(format1)); // 20/12/2022
+        System.out.println(ldt.format(format1)); // 2023-01-12  ->ldt tarihinin formatini degistiriyoruz!
+        System.out.println(ldt.format(format11)); // 01.12.23 Do. ->standart olanlardan birini kullandik
 
         // Sadece tarihi 12.20.22 Tue seklinde yazdirin
 
